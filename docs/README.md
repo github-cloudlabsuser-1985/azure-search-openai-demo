@@ -2,7 +2,6 @@
 
 Consult the main [README](../README.md) for general information about the project.
 These are advanced topics that are not necessary for a basic deployment.
-
 * [Deploying with the Azure Developer CLI](azd.md)
     * [Deploying with existing Azure resources](deploy_existing.md)
     * [Deploying from a free account](deploy_lowcost.md)
